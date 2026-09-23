@@ -1,8 +1,16 @@
 ---
-description: Welcome to your team’s developer platform
+description: >-
+  Bienvenido sea a mi hogar de apuntes, representando cada materia y con su
+  dicha información.
 icon: house
+coverY: -2.718108276291226
+coverHeight: 284
 layout:
   width: wide
+  cover:
+    visible: true
+    size: hero
+    mask: radial
   title:
     visible: true
   description:
@@ -23,7 +31,7 @@ layout:
     visible: false
 ---
 
-# Developer Platform
+# Riccardo Moccia - 1º DAM
 
 <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask a question...</button>
 
@@ -31,7 +39,7 @@ layout:
 
 &#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><h4><i class="fa-leaf" style="color:$primary;">:leaf:</i></h4></td><td><strong>No code</strong></td><td>Get started with the developer platform in 5 minutes.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/no-code.jpg">no-code.jpg</a></td></tr><tr><td><h4><i class="fa-server" style="color:$primary;">:server:</i></h4></td><td><strong>Hosted</strong></td><td>Learn more about hosting the developer platform.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td><td><a href=".gitbook/assets/hosted.jpg">hosted.jpg</a></td></tr><tr><td><h4><i class="fa-terminal" style="color:$primary;">:terminal:</i></h4></td><td><strong>API reference</strong></td><td>Browse, test, and implement APIs.</td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td><td><a href=".gitbook/assets/api-reference.jpg">api-reference.jpg</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h4>Programación</h4></td><td>🥀</td><td></td><td data-object-fit="fill"><a href=".gitbook/assets/Beneficios De Las Apps Nativas Mejor Rendimiento Y Experiencia.jpeg">Beneficios De Las Apps Nativas Mejor Rendimiento Y Experiencia.jpeg</a></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td></tr><tr><td><h4>Sistemas informáticos</h4></td><td></td><td></td><td data-object-fit="fill"><a href=".gitbook/assets/Cat.jpeg">Cat.jpeg</a></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/yE16Xb3IemPxJWydtPOj/">Documentation</a></td></tr><tr><td><h4>Bases de datos</h4></td><td></td><td></td><td data-object-fit="fill"><a href=".gitbook/assets/_ (1).jpeg">_ (1).jpeg</a></td><td><a href="https://app.gitbook.com/o/DaDQkGCM7r2TghFSBFLQ/s/M9ty6FYa3j98VSBHF9LN/">API Reference</a></td></tr><tr><td>Lenguajes de marcas</td><td></td><td></td><td data-object-fit="fill"><a href=".gitbook/assets/Micahaelperfect (@cpapu90) on X.jpeg">Micahaelperfect (@cpapu90) on X.jpeg</a></td><td></td></tr><tr><td>Entornos de desarrollo</td><td></td><td></td><td><a href=".gitbook/assets/#memesdaily #memesforlife #math #mathematics #catlover #cats_.jpeg">#memesdaily #memesforlife #math #mathematics #catlover #cats_.jpeg</a></td><td></td></tr><tr><td>Digitilización</td><td></td><td></td><td><a href=".gitbook/assets/_ (3).jpeg">_ (3).jpeg</a></td><td></td></tr></tbody></table>
 
 &#x20;
 
