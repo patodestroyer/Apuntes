@@ -176,7 +176,7 @@ Consulta la [documentación](https://markdown.es/sintaxis-markdown) para más de
 
 ### Imágenes
 
-![Texto alternativo](../.gitbook/assets/57fe3871c97dd888433799ebd60997c0.jpg)
+![Texto alternativo](../../.gitbook/assets/57fe3871c97dd888433799ebd60997c0.jpg)
 
 ! — indica que es una imagen y no un enlace.
 
@@ -190,7 +190,7 @@ Consulta la [documentación](https://markdown.es/sintaxis-markdown) para más de
 
 ### Título emergente
 
-![XD](../.gitbook/assets/e9eb9ec1b0da71003807507b2368cd21.jpg)
+![XD](../../.gitbook/assets/e9eb9ec1b0da71003807507b2368cd21.jpg)
 
 ### Rutas: relativas o absolutas
 
