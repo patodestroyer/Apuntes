@@ -17,6 +17,13 @@ site:
           content:
             directory: ./home
             language: es
+        - type: space
+          key: space-6
+          title: Materias
+          path: materias
+          draft: true
+          content:
+            directory: ./home/materias
     - type: section
       key: section-2
       title: Documentation
