@@ -5,7 +5,7 @@ description: >-
   proyectos para ir poder mejorandolos
 icon: house
 coverY: -2.718108276291226
-coverHeight: 284
+coverHeight: 220
 layout:
   width: wide
   cover:
