@@ -21,7 +21,6 @@ site:
           key: space-6
           title: Materias
           path: materias
-          draft: true
           content:
             directory: ./home/materias
     - type: section
